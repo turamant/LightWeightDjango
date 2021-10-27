@@ -1,12 +1,12 @@
-Django на минималках одним файлом app.py
+<h2>Django на минималках одним файлом app.py</h2>
 
-Django + templates   placeholder/
+<p>Django + templates   placeholder/</p>
 
-python app.py runserver
+<p>python app.py runserver</p>
 
-WSGI Application
-pip install gunicorn
-gunicorn app --log-file=-
+<h2>WSGI Application</h2>
+<p>pip install gunicorn</p>
+<p>gunicorn app --log-file=-</p>
 
-CREATE NEW PROJECT
-django-admin.py startproject placeholder --template=project_name
+<h2>CREATE NEW PROJECT</h2>
+<p>django-admin.py startproject placeholder --template=project_name</p>
